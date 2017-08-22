@@ -1,0 +1,4 @@
+Sausage,3,-1,
+Boneless Chicken,3,-1,
+Cheese Ball,3,-1,
+Sushi,11,-5,
